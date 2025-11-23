@@ -9,7 +9,7 @@ This project demonstrates quick problem-solving, adaptability under pressure, an
 
 ## 🖼️ Preview  
 *(Event Output Image)*  
-![Cyber Awareness Poster](./3202f7a9-d715-45c3-a6be-b09dfd836235.png)
+![Cyber Awareness Poster](./output/img.png)
 
 ---
 
